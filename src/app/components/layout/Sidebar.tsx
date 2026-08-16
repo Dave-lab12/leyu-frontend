@@ -82,8 +82,8 @@ const Sidebar: React.FC<SidebarProps> = ({
       <div className="mb-10 flex items-center justify-between">
         {isOpen && (
           <Image
-            src="/logo/leyu.png"
-            alt="Logo"
+            src="/logo/mahder.png"
+            alt="Mahder Logo"
             width={120}
             height={40}
             className="mb-6"
